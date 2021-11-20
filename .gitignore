@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/winui-progressbar-stop-animate-issure/.vs/winui-progressbar-stop-animate-issure/v17
+/winui-progressbar-stop-animate-issure/bin
+/winui-progressbar-stop-animate-issure/obj
